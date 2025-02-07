@@ -1,5 +1,3 @@
-const app = require('../app.js');
-const request = require('supertest')(app);
 const express = require('express');
 const _ = require('underscore');
 
